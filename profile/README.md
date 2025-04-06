@@ -1,1 +1,1 @@
-## Welcome to Guildiscover! 
+## Welcome to Guildiscover! :wave:
