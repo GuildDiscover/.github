@@ -4,9 +4,15 @@ Guildiscover is a small indie team with members from all around the world, such 
 
 Guildiscover mission is to build the next-generation platform where all users on the Internet can discover amazing communities through multiple platforms around the world. 
 
+## Our Features 
+
+- []()
+- []()
+- []()
+
 ## Quick Links 🔗
 
 - [🌏 Official Website](https://guildiscover.jst-tan.com)
 - [🗣️ Github Discussions](https://github.com/orgs/GuildDiscover/discussions)
-- [👤 Our Team](https://github.com/orgs/GuildDiscover/people)
+- [💬 Our Team](https://github.com/orgs/GuildDiscover/people)
 - [📧 Contact Us](mailto:contact@guildiscover.jst-tan.com)
